@@ -1,0 +1,23 @@
+{
+  "name": "generator-chrome-extension-reallysimple",
+  "version": "1.0.0",
+  "description": "Chrome Extension Extension ReallySimple",
+  "files": [
+    "app"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "chrome",
+    "extension",
+    "skeleton",
+    "yeomen-generator"
+  ],
+  "author": "leo <leonidasmenendez@gmail.com> (https://www.code57.com/chrome-extension-skeleton)",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^3.1.1"
+  }
+}
